@@ -1,4 +1,5 @@
+basic_materials?
 default?
 moreores?
-technic?
-rainbow_ore?
+technic_worldgen?
+terumet?
